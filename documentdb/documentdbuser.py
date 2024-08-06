@@ -3,7 +3,7 @@ import csv
 
 # Connect to the DocumentDB server
 client = pymongo.MongoClient(
-    "mongodb://deepak:xxxx$@gromo-production-docdb.cluster-cgfbihskxfkk.ap-south-1.docdb.amazonaws.com:27017/?replicaSet=rs0&readPreference=secondaryPreferred&retryWrites=false"
+    "mongodb://deepak:xxxx$@deepak-production-docdb.cluster-cgfbihskxfkk.ap-south-1.docdb.amazonaws.com:27017/?replicaSet=rs0&readPreference=secondaryPreferred&retryWrites=false"
 )
 admin_db = client.admin  # Connect to the admin database
 
