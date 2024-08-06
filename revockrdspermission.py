@@ -3,9 +3,9 @@ import csv
 
 # Connect to the MySQL server
 mydb = mysql.connector.connect(
-    host="gromo-staging-rds.cgfbihskxfkk.ap-south-1.rds.amazonaws.com",
+    host="databases-url",
     user="root",
-    password="X1wxSv2yNPds0CHHn4W"
+    password="XXXXXXXXX"
 )
 cursor = mydb.cursor()
 
