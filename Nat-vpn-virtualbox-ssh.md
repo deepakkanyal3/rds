@@ -1,7 +1,7 @@
 
 # VPN RUNNING IN MACOS WANNA TRAFFICE MY VPN TRAFFIC IN VIRTAL MACHIN IN VIRTUALBOX USING NAT NETWORK
 
-# To SSH into your VirtualBox VM NAT NATWORK from your macOS host machine through a VPN, you'll need to set up port forwarding in VirtualBox so that you can reach the VM from your host machine. Here’s a step-by-step guide to achieve this:
+ To SSH into your VirtualBox VM NAT NATWORK from your macOS host machine through a VPN, you'll need to set up port forwarding in VirtualBox so that you can reach the VM from your host machine. Here’s a step-by-step guide to achieve this:
 
 # 1. Configure Port Forwarding in VirtualBox
    Open VirtualBox Manager and select your VM.
