@@ -28,7 +28,7 @@ Open Terminal on your macOS host machine.
 
 Use the SSH command to connect to the VM. The command should look something like this:
 
- # ssh -p 2222 username@127.0.0.1
+ # ssh -p 2222 deepak@127.0.0.1
 
 -p 2222 specifies the port you set in the Port Forwarding rules.
 
